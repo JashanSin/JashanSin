@@ -2,7 +2,7 @@
 - 👀 I’m interested in applying machine learning in automoboble industry. 
 - 🌱 I’m currently machine learning student and i also do part-time job in KFC with my study. I have good communication skill as well have knowledge about the programming. 
 - 💞️ I’m looking to collaborate with the company in automobile industry. 
-- 📫 The best way to contact with me via email which is jsinghkk28@gmail.com
+- 📫 The best way to contact with me via email which is jsinghkk28@gmail.com. LinkedIn is also another way to connect with me https://www.linkedin.com/in/jashan-singh-558124254
 - Fun Fact : I'm play very well in board games especially in Caromboard. It is a tabletop game in which Four players can participate. The goal in this game to try to knock other players flick discs to the corner of board. At end, the player who have more discs win the game.
 - I made two machine learning project in which the one predict the lung cancer and the another predict sales of a car.
 
