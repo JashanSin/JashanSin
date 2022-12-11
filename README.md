@@ -12,6 +12,8 @@
 - Which Algorith : I apllied kNN classifier because it is a classification problem and the kNN is used where we want maximum accuracy.
 - Result : The Model is predicting the lung cancer in new patients when the random inputs is given to model. 
 
+
+
   - Group Project : In this project, we applied machine learning in aautomobile indusrtry. For this project, we just selected one car and ite one model which is Acura MDX. We are predicting the sales of ACURA MDX model in future based on the data provided to model.  
  - About dataset : For this project, we made the dataset manually and we collected the information about the sales of Acura MDX model on internet. The information that we collected was not in proper structured format then we did some cleaning and made in proper structured format so that the algoritn can predict sales. We have total 203 records of sales of car and we cllected the data from 2005 to 2020. 
  - Splitting : After doing the cleaning, we just have two columns left. The first columns is datetime which shows that car sales in the different year and then the sales of car which is our target variable.
